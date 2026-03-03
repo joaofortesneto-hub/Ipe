@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Segurança Ipê",
+  "description": "Aplicativo para controle de frequência e pagamento de funcionários de segurança com divisão entre empresas do grupo Ipê.",
+  "requestFramePermissions": []
+}
